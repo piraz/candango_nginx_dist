@@ -7,6 +7,7 @@ This distribution is based on the original NGINX distribution and will be hosted
 Initially the RPM distribution for CentOS 7 will be supported and we're adding the ldap auth dynamic module to our repository.
 
 The original repo is: http://nginx.org/packages/centos/7/
+NGINX ldap auth module: https://github.com/kvspb/nginx-auth-ldap
 
 ## References:
 
